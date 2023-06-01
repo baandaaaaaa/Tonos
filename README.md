@@ -22,7 +22,7 @@ public class Tonos {
         tonos.add("Crepa");
         tonos.add("Fucsia");
         tonos.add("Flameco");
-        tonos.add("Melocotón");
+        tonos.add("Meloctón");
         tonos.add("Caramelo");
         tonos.add("Magenta");
         tonos.add("Ponche");
