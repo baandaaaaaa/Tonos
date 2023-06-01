@@ -1,5 +1,5 @@
-# Tonos
-Examen unidad 6 y 7, Ciencias de datos
+# Tono
+Examen unidad 6 y 7, ciencias de datos
 
 
 import java.util.ArrayList;
